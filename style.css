@@ -1,0 +1,53 @@
+body {
+    font-family: comic sans ms;
+    background: linear-gradient(#ffbdfc,#92ddff,#e48aff);
+}
+
+header{
+    background-color:#C9F76F ;
+}
+
+footer{
+    background-color:#E667AF;
+}
+
+a{
+    text-decoration: none;
+    border-style: dashed;
+    color: #E667AF;
+    margin: 40px;
+}
+
+h1{
+    margin-left: 300px;
+}
+
+p {
+    margin-left: 5px;
+}
+
+img{
+    border-style: dashed;
+    border-color: #E667AF;
+    margin: 10px;
+}
+
+table{
+    border-style:groove;
+    border-color: #C9F76F; 
+}
+
+footer p{
+    font-size: 20px;
+    background-color: #C9F76F;
+}
+
+.cat{
+    margin-left: 20px;
+
+}
+
+td{
+    border-style:double;
+    border-color: #E667AF;
+}
